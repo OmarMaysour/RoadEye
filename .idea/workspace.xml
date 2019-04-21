@@ -1,20 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56fdbcab-b4e9-4210-8777-3f0a1c37a32d" name="Default Changelist" comment="" />
+    <list default="true" id="56fdbcab-b4e9-4210-8777-3f0a1c37a32d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/AccelerometerCreateDTO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/AccelerometerDTO.py" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/AccelerometerDTO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/AnomalyCreateDTO.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DTOs/AnomalyDTO.py" beforeDir="false" afterPath="$PROJECT_DIR$/DTOs/AnomalyDTO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataManagment/AccelerometerCacheManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataManagment/AccelerometerCacheManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataManagment/AnomalyCacheManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataManagment/AnomalyCacheManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataManagment/CacheManagerFactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataManagment/CacheManagerFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logics/ClassificationLogic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Logics/ClassificationLogic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/AccelerometerModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/AccelerometerModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/CameraModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/CameraModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules/GPSModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules/GPSModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Networking/NetworkManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Networking/NetworkManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/AnomalyDetectionService.py" beforeDir="false" afterPath="$PROJECT_DIR$/Services/AnomalyDetectionService.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/RoadConditionService.py" beforeDir="false" afterPath="$PROJECT_DIR$/Services/RoadConditionService.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/UploadDataService.py" beforeDir="false" afterPath="$PROJECT_DIR$/Services/UploadDataService.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/RoadEye$main.coverage" NAME="main Coverage Results" MODIFIED="1555330147177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RoadEye$test.coverage" NAME="test Coverage Results" MODIFIED="1551059688527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="roadeye_cache" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="roadeye_cache" type="feb32156:DbDataSourceImpl" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Networking/NetworkManager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="204">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -28,6 +86,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>db_connection</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>_db_connection</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -40,21 +109,43 @@
         <option value="$PROJECT_DIR$/Logic/ClassificationLogic.py" />
         <option value="$PROJECT_DIR$/Services/ClassificationService.py" />
         <option value="$PROJECT_DIR$/DTOs/AnomalyModel.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/Logics/ClassificationLogic.py" />
-        <option value="$PROJECT_DIR$/Modules/AccelerometerModule.py" />
-        <option value="$PROJECT_DIR$/Modules/CameraModule.py" />
+        <option value="$PROJECT_DIR$/Logics/CacheImage.py" />
+        <option value="$PROJECT_DIR$/Logics/CacheManager.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/DTOs/AnomalyCreateDTO.py" />
+        <option value="$PROJECT_DIR$/DataManagment/CacheManager.py" />
+        <option value="$PROJECT_DIR$/DTOs/AccelerometerCreateDTO.py" />
+        <option value="$PROJECT_DIR$/DTOs/AccelerometerDTO.py" />
         <option value="$PROJECT_DIR$/Modules/GPSModule.py" />
+        <option value="$PROJECT_DIR$/Modules/AccelerometerModule.py" />
+        <option value="$PROJECT_DIR$/DTOs/AnomalyDTO.py" />
+        <option value="$PROJECT_DIR$/Modules/CameraModule.py" />
         <option value="$PROJECT_DIR$/Services/AnomalyDetectionService.py" />
+        <option value="$PROJECT_DIR$/Logics/ClassificationLogic.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/42cb2d54-49ac-4cb5-bc3d-3df1fb0204ef/console.sql" />
+        <option value="$PROJECT_DIR$/DataManagment/AccelerometerCacheManager.py" />
+        <option value="$PROJECT_DIR$/DataManagment/AnomalyCacheManager.py" />
+        <option value="$PROJECT_DIR$/DataManagment/CacheManagerFactory.py" />
+        <option value="$PROJECT_DIR$/Services/UploadDataService.py" />
+        <option value="$PROJECT_DIR$/Services/RoadConditionService.py" />
+        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/Networking/NetworkManager.py" />
       </list>
     </option>
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1853" />
-    <option name="height" value="1055" />
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -67,6 +158,11 @@
             <path>
               <item name="RoadEye" type="b2602c69:ProjectViewProjectNode" />
               <item name="RoadEye" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RoadEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RoadEye" type="462c0819:PsiDirectoryNode" />
+              <item name="DataManagment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RoadEye" type="b2602c69:ProjectViewProjectNode" />
@@ -86,6 +182,11 @@
             <path>
               <item name="RoadEye" type="b2602c69:ProjectViewProjectNode" />
               <item name="RoadEye" type="462c0819:PsiDirectoryNode" />
+              <item name="Networking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RoadEye" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RoadEye" type="462c0819:PsiDirectoryNode" />
               <item name="Services" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -96,11 +197,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SENet-Tensorflow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\omarm\Desktop\RoadEye\Networking" />
+      <recent name="C:\Users\omarm\Desktop\RoadEye\DataManagment" />
       <recent name="$PROJECT_DIR$/Models" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -117,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="RoadEye" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +235,30 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="RoadEye" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,6 +270,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -155,120 +284,301 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544980178938</updated>
+      <workItem from="1550883383464" duration="289000" />
+      <workItem from="1550910646979" duration="7626000" />
+      <workItem from="1550953122729" duration="5296000" />
+      <workItem from="1551044456014" duration="12731000" />
+      <workItem from="1551061566485" duration="3635000" />
+      <workItem from="1551110435666" duration="2381000" />
+      <workItem from="1551129574675" duration="2517000" />
+      <workItem from="1551134619515" duration="4233000" />
+      <workItem from="1551142353828" duration="407000" />
+      <workItem from="1551142795204" duration="473000" />
+      <workItem from="1551143310073" duration="223000" />
+      <workItem from="1551174664113" duration="1770000" />
+      <workItem from="1551849423779" duration="6835000" />
+      <workItem from="1551895870852" duration="1125000" />
+      <workItem from="1554976834168" duration="109000" />
+      <workItem from="1555120220041" duration="945000" />
+      <workItem from="1555121485242" duration="35000" />
+      <workItem from="1555248582524" duration="1152000" />
+      <workItem from="1555259912444" duration="13727000" />
+      <workItem from="1555303920814" duration="2243000" />
+      <workItem from="1555306330662" duration="7246000" />
+      <workItem from="1555328039286" duration="38000" />
+      <workItem from="1555328201372" duration="1667000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76703000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33989072" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" sideWeight="0.5023585" side_tool="true" weight="0.29127517" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4976415" visible="true" weight="0.29932886" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297414" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41076487" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49945354" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49945354" weight="0.3243626" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054646" side_tool="true" weight="0.3297414" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3297414" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32719547" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="PlantUML" order="0" weight="0.3295302" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295302" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.3295302" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33989072" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.29127517" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297414" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49945354" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49945354" weight="0.3243626" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054646" side_tool="true" weight="0.3297414" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3297414" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32719547" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="PlantUML" order="0" weight="0.3295302" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295302" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.3295302" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DataManagment/AnomalyCacheManager.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Models/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/app.log" />
     <entry file="file://$PROJECT_DIR$/VideoAnomalyDetector.py" />
-    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pip-selfcheck.json" />
+    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg" />
     <entry file="file://$PROJECT_DIR$/CacheManager.py" />
-    <entry file="file://$PROJECT_DIR$/DTOs/AnomalyDTO.py">
+    <entry file="file://$PROJECT_DIR$/Logics/CacheImage.py" />
+    <entry file="file://C:/Program Files/Python36/Lib/asyncio/events.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="133">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="uml://Python/#C:/Users/omarm/Desktop/RoadEye/Services/AnomalyDetectionService.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#C:/Users/omarm/Desktop/RoadEye/Services/AnomalyDetectionService.py</OriginalElement>
+          <nodes>
+            <node x="" y="">Services.AnomalyDetectionService.AnomalyDetectionService</node>
+            <node x="" y="">object</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="176.0" y="54.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DTOs/AccelerometerCreateDTO.py" />
+    <entry file="file://$PROJECT_DIR$/DTOs/AnomalyCreateDTO.py" />
+    <entry file="file://$PROJECT_DIR$/Modules/GPSModule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="71" selection-start-line="3" selection-start-column="71" selection-end-line="3" selection-end-column="71" />
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python36/Lib/asyncio/base_events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="467" selection-start-line="467" selection-end-line="467" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bump.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state>
+          <caret column="25" selection-start-column="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DTOs/AnomalyDTO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/CameraModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cache/243b555dfeed476ab330b76a18efcba2.png" />
+    <entry file="file://$PROJECT_DIR$/Cache/4bc991ba7c2e40158617eb5c46ae280e.png" />
+    <entry file="file://$PROJECT_DIR$/Cache/fa592966bb0b4292a071a0e2f8f1ee71.png" />
+    <entry file="file://$PROJECT_DIR$/Cache/f8bf456d1717463e900d541bf55856b2.png" />
+    <entry file="file://$PROJECT_DIR$/Cache/0c012771e8e14ced8af49822cafd2b43.png" />
+    <entry file="file://$PROJECT_DIR$/Logics/ClassificationLogic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="39" column="42" lean-forward="true" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules/AccelerometerModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="15" selection-start-line="63" selection-start-column="15" selection-end-line="63" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/42cb2d54-49ac-4cb5-bc3d-3df1fb0204ef/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DTOs/AccelerometerDTO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Services/AnomalyDetectionService.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="239">
+          <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/ClassificationLogic.py">
+    <entry file="file://$PROJECT_DIR$/DataManagment/CacheManager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/CameraModule.py">
+    <entry file="file://$PROJECT_DIR$/DataManagment/CacheManagerFactory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        <state relative-caret-position="255">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/GPSModule.py">
+    <entry file="file://$PROJECT_DIR$/DataManagment/AccelerometerCacheManager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        <state relative-caret-position="239">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Modules/AccelerometerModule.py">
+    <entry file="file://$PROJECT_DIR$/Services/RoadConditionService.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state relative-caret-position="256">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Services/UploadDataService.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataManagment/AnomalyCacheManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Networking/NetworkManager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="204">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
