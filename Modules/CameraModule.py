@@ -11,7 +11,7 @@ class _CameraModule:
     _CameraModuleInstance = None
 
     def __init__(self):
-        self._cap = cv2.VideoCapture('testVideo.mov')
+        self._cap = cv2.VideoCapture('video.mp4')
         # self._check_video_source()
 
 
